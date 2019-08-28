@@ -125,3 +125,5 @@ override fun onTouchEvent(event: MotionEvent): Boolean {
         onChange()
     }
 ```
+
+[完整代码](https://github.com/RommelLiang/EvaluationBar/blob/master/app/src/main/java/liang/cxx/rommel/evaluationbar/EvaluationProgressBar.kt)
