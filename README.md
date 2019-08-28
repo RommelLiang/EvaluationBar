@@ -1,6 +1,6 @@
 ### 前言
 一个拖动评价的View，分差、中、好三个等级。使用kotlin实现。三个评级分别用不同的背景和滑块显示
-![](https://user-gold-cdn.xitu.io/2019/8/28/16cd7888a1d4b3c5?w=279&h=190&f=png&s=8588)
+![](https://github.com/RommelLiang/EvaluationBar/blob/master/img/1566986196083.jpg)
 
 ### 实现方式
 #### 绘制
